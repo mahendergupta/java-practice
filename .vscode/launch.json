@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FibonacciSeries",
+            "request": "launch",
+            "mainClass": "FibonacciSeries",
+            "projectName": "JavaPractice_1cf1eebe"
+        },
+        {
+            "type": "java",
             "name": "ArmstrongNumber",
             "request": "launch",
             "mainClass": "ArmstrongNumber",
