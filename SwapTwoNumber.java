@@ -1,4 +1,5 @@
 import java.util.Scanner;
+// Swapping of Two numbers without using third number.
 class SwapTwoNumber {
     public static void swap (int a, int b) {
 
@@ -24,5 +25,6 @@ class SwapTwoNumber {
         System.out.println("b = "+ b);
 
         swap(a , b);
+        sc.close();
     }
 }
