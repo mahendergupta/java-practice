@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SwapTwoNumber",
+            "request": "launch",
+            "mainClass": "SwapTwoNumber",
+            "projectName": "JavaPractice_912430ed"
+        },
+        {
+            "type": "java",
             "name": "FibonacciSeries",
             "request": "launch",
             "mainClass": "FibonacciSeries",
