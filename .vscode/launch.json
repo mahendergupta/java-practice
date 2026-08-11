@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TernaryOperator",
+            "request": "launch",
+            "mainClass": "TernaryOperator",
+            "projectName": "JavaPractice_912430ed"
+        },
+        {
+            "type": "java",
             "name": "LargestOfThreeNumber",
             "request": "launch",
             "mainClass": "LargestOfThreeNumber",
