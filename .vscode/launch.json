@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LargestOfThreeNumber",
+            "request": "launch",
+            "mainClass": "LargestOfThreeNumber",
+            "projectName": "JavaPractice_912430ed"
+        },
+        {
+            "type": "java",
             "name": "LargestOfTwoNumber",
             "request": "launch",
             "mainClass": "LargestOfTwoNumber",
